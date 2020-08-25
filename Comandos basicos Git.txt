@@ -1,0 +1,6 @@
+git clone "url" -----copiar reposito de codigo --vincula tu carpeta local con el repositorio en la plataforma
+git pull -- trae cambios del repositorio
+git add . o nombre -- para agregar cambios al repositorio
+git commit -m "comentario" --estado transitorio de los cambios que acabo de hacer
+git push -- sube los cambios del repositorio
+git status consultar el estado del repositorio
