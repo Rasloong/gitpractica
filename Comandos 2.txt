@@ -1,0 +1,7 @@
+git pull --all y git fetch --all ............bajan todos los cambios del repositorio
+
+git checkout nombre ..............cambio de rama
+
+git branch ..........para crear una rama nueva con base en la rama actual
+
+
